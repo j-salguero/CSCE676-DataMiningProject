@@ -1,6 +1,6 @@
 # CSCE676-DataMiningProject
 
-Select a dataset that meaningfully supports one or more data mining techniques covered in this course AND at least one additional technique not covered in the course
+Goal: Select a dataset that meaningfully supports one or more data mining techniques covered in this course AND at least one additional technique not covered in the course. We'll conduct a semester-long analysis with this dataset
 
 I chose "Algorithmic Behaviors Across Regions: A Geolocation Audit of YouTube Search for COVID-19 Misinformation Between the United States and South Africa"
 - Authors: Hayoung Jung, Prerna Juneja, Tanushree Mitra
