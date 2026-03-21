@@ -8,3 +8,6 @@ I chose "Algorithmic Behaviors Across Regions: A Geolocation Audit of YouTube Se
 
 Project 1 Checkpoint: Dataset Comparison, Selection, and EDA
 - https://github.com/j-salguero/CSCE676-DataMiningProject/blob/main/937005006_CSCE676_ProjectCheckPoint1.ipynb
+
+Project Checkpount 2: Research Question Formation
+- https://github.com/j-salguero/CSCE676-DataMiningProject/blob/main/937005005_CSCE676_ProjectCheckpoint2.ipynb
