@@ -11,3 +11,7 @@ Project 1 Checkpoint: Dataset Comparison, Selection, and EDA
 
 Project Checkpount 2: Research Question Formation
 - https://github.com/j-salguero/CSCE676-DataMiningProject/blob/main/937005005_CSCE676_ProjectCheckpoint2.ipynb
+
+2-Minute Project Overview:
+- Youtube: https://youtu.be/SuMNdmeI3cU
+- Slides: https://github.com/j-salguero/CSCE676-DataMiningProject/blob/main/937005006_CSCE676_2-MinuteVideoSlides.pdf
