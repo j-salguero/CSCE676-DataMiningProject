@@ -37,17 +37,14 @@ Key Dependencies:
 
 ## Repo Structure
 CSCE676-DataMiningProject/
-│
-├── checkpoints/ # Intermediate project work
-│ ├── 937005006_CSCE676_ProjectCheckPoint1.ipynb # Project 1 Checkpoint: Dataset Comparison, Selection, and EDA
-│ └──  937005006_CSCE676_ProjectCheckPoint1.ipynb # Project Checkpount 2: Research Question Formation
-│
-├── main_notebook.ipynb # Final curated notebook (main deliverable)
-├── search-results.zip # Dataset used for analysis
-├── requirements.txt # Python dependencies
-│
-├── 937005006_CSCE676_2-MinuteVideoSlides.pdf # Slides from 2-minute video about project
-└── README.md # Project overview
+- checkpoints/ # Intermediate project work
+  - 937005006_CSCE676_ProjectCheckPoint1.ipynb # Project 1 Checkpoint: Dataset Comparison, Selection, and EDA
+  - 937005006_CSCE676_ProjectCheckPoint1.ipynb # Project Checkpount 2: Research Question Formation
+- main_notebook.ipynb # Final curated notebook (main deliverable)
+- search-results.zip # Dataset used for analysis
+- requirements.txt # Python dependencies
+- 937005006_CSCE676_2-MinuteVideoSlides.pdf # Slides from 2-minute video about project
+- README.md # Project overview
 
 ## Results Summary
 The results of this project show that geographic location does influence YouTube search results for the same query. Users in different countries are exposed to different channels, and these differences can lead to different levels of misinformation exposure. While search results are relatively consistent across runs, the specific channels and channel groupings vary by location. Geographic location does play an important role in determining how much misinformation users are being exposed to on YouTube.
