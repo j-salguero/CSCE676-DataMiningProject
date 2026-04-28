@@ -26,7 +26,7 @@ I chose "Algorithmic Behaviors Across Regions: A Geolocation Audit of YouTube Se
 After downloading the data, I combined the individual files for each city into one large dataset. To get the data ready for analysis, I grouped the results by country, query, and run. Each group was treated like a set of channels that appeared together in the search results. These steps can be seen in the main_notebook.ipynb preprocessing steps.
 
 ## How to Reproduce
-This was build using Jupyter Notebook and Google Colab. To build a similar environment, please reference [requirements.txt](https://github.com/j-salguero/CSCE676-DataMiningProject/blob/main/requirements.txt)
+This project was built using Jupyter Notebook. To build a similar environment, please reference [requirements.txt](https://github.com/j-salguero/CSCE676-DataMiningProject/blob/main/requirements.txt)
 
 Key Dependencies: 
 - Python  
