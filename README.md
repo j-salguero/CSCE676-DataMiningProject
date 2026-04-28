@@ -29,7 +29,7 @@ After downloading the data, I combined the individual files for each city into o
 This project was built using Jupyter Notebook. To build a similar environment, please reference [requirements.txt](https://github.com/j-salguero/CSCE676-DataMiningProject/blob/main/requirements.txt)
 
 Key Dependencies: 
-- Python  
+- Python 3.12.13
 - pandas  
 - numpy  
 - matplotlib  
