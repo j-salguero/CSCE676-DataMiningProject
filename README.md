@@ -46,7 +46,8 @@ CSCE676-DataMiningProject/
   - 937005006_CSCE676_ProjectCheckPoint1.ipynb # Project Checkpount 2: Research Question Formation
 - main_notebook.ipynb # Final curated notebook (main deliverable)
 - search-results.zip # Dataset used for analysis
-- requirements.txt # Python dependencies
+- requirements.txt # Python dependencies for Google Colab
+- requirements_jupyter-notebook.txt # Python dependencies for Jupyter Notebook
 - 937005006_CSCE676_2-MinuteVideoSlides.pdf # Slides from 2-minute video about project
 - README.md # Project overview
 
